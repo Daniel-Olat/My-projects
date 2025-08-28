@@ -1,0 +1,7 @@
+request allows us to read text form the user
+Jsonify allows us to convert python data into json which is understood by Javascipt and web servers
+requests helps our code talk to the api i.e request data from the api
+
+async allows us to use await which makes the website wait for APJ respinses without freezing the page
+
+json converts python dictionary into a JAVASCRIPT OBJECT
