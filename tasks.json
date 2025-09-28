@@ -1,0 +1,16 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "title": "cook",
+            "description": "Chicken nuggets",
+            "status": "pending"
+        },
+        {
+            "id": 2,
+            "title": "read",
+            "description": "Electronic principles",
+            "status": "pending"
+        }
+    ]
+}
